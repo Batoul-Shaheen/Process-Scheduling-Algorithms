@@ -2,7 +2,6 @@
 This C++ program implements three different process scheduling algorithms: First Come First Serve (FCFS), Shortest Job First (SJF), and Round Robin. These algorithms are widely used in operating systems to manage the execution of processes efficiently.
 
 ## 🏷️ Features
-
 **- FCFS Scheduling**
 **- SJF Scheduling**
 **- Round Robin Scheduling with customizable time quantum**
